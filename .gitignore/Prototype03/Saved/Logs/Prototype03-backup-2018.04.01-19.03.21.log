@@ -1,0 +1,1076 @@
+﻿Log file open, 03/29/18 11:29:33
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Prototype03
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-604389405) SRandInit(-604389405).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3754814, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.164222
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogHMD: Failed initializing OVRPlugin 1.19.0
+LogInit: Build: ++UE4+Release-4.18-CL-3754814
+LogInit: Engine Version: 4.18.1-3754814+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Nov 14 2017 02:05:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/apps/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.03.28-22.29.35:144][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.28-22.29.35:144][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.03.28-22.29.35:184][  0]LogInit: Computer: 1903C007
+[2018.03.28-22.29.35:184][  0]LogInit: User: gregoryjon6888
+[2018.03.28-22.29.35:184][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.03.28-22.29.35:184][  0]LogInit: High frequency timer resolution =3.515623 MHz
+[2018.03.28-22.29.35:184][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.03.28-22.29.35:184][  0]LogMemory: Platform Memory Stats for Windows
+[2018.03.28-22.29.35:184][  0]LogMemory: Process Physical Memory: 276.89 MB used, 276.89 MB peak
+[2018.03.28-22.29.35:184][  0]LogMemory: Process Virtual Memory: 274.89 MB used, 274.89 MB peak
+[2018.03.28-22.29.35:184][  0]LogMemory: Physical Memory: 6235.60 MB used,  10041.68 MB free, 16277.28 MB total
+[2018.03.28-22.29.35:184][  0]LogMemory: Virtual Memory: 732.86 MB used,  10041.68 MB free, 134217728.00 MB total
+[2018.03.28-22.29.35:311][  0]LogInit: Using OS detected language (en-US).
+[2018.03.28-22.29.35:311][  0]LogInit: Using OS detected locale (en-US).
+[2018.03.28-22.29.35:352][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.03.28-22.29.35:712][  0]LogInit: Setting process to per monitor DPI aware
+[2018.03.28-22.29.37:246][  0]LogD3D11RHI: D3D11 adapters:
+[2018.03.28-22.29.37:291][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 760' (Feature Level 11_0)
+[2018.03.28-22.29.37:291][  0]LogD3D11RHI:       2017/0/8138 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.03.28-22.29.37:296][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2018.03.28-22.29.37:296][  0]LogD3D11RHI:       0/0/1792 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.03.28-22.29.37:298][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.03.28-22.29.37:298][  0]LogD3D11RHI:       0/0/8138 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.03.28-22.29.37:298][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.03.28-22.29.37:303][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.03.28-22.29.37:303][  0]LogD3D11RHI:     GPU DeviceId: 0x1187 (for the marketing name, search the web for "GPU Device Id")
+[2018.03.28-22.29.37:303][  0]LogWindows: EnumDisplayDevices:
+[2018.03.28-22.29.37:303][  0]LogWindows:    0. 'NVIDIA GeForce GTX 760' (P:1 D:1)
+[2018.03.28-22.29.37:303][  0]LogWindows:    1. 'NVIDIA GeForce GTX 760' (P:0 D:1)
+[2018.03.28-22.29.37:304][  0]LogWindows:    2. 'NVIDIA GeForce GTX 760' (P:0 D:0)
+[2018.03.28-22.29.37:304][  0]LogWindows:    3. 'NVIDIA GeForce GTX 760' (P:0 D:0)
+[2018.03.28-22.29.37:304][  0]LogWindows:    4. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.03.28-22.29.37:304][  0]LogWindows:    5. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.03.28-22.29.37:304][  0]LogWindows:    6. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.03.28-22.29.37:304][  0]LogWindows:    7. 'Mirage Driver' (P:0 D:0)
+[2018.03.28-22.29.37:304][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.03.28-22.29.37:304][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 760
+[2018.03.28-22.29.37:304][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.03.28-22.29.37:304][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.03.28-22.29.37:304][  0]LogRHI: Texture pool is 1412 MB (70% of 2017 MB)
+[2018.03.28-22.29.37:328][  0]LogD3D11RHI: Async texture creation enabled
+[2018.03.28-22.29.37:339][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.03.28-22.29.37:341][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (D:/Users/gregory.jon6888/Desktop/BossPrototype/Source/Prototype03/.gitignore/Prototype03/Intermediate/Shaders/WorkingDirectory/13072/).
+[2018.03.28-22.29.37:341][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'D:/Users/gregory.jon6888/AppData/Local/Temp/UnrealShaderWorkingDir/1C633D924D76189DD8A53BA6E4088C56/'.
+[2018.03.28-22.29.37:341][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.03.28-22.29.38:238][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.03.28-22.29.38:285][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.03.28-22.29.38:328][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.03.28-22.29.38:373][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.03.28-22.29.38:425][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.03.28-22.29.38:468][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.03.28-22.29.38:518][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.03.28-22.29.38:565][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.03.28-22.29.38:608][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.03.28-22.29.38:650][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.03.28-22.29.38:692][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.03.28-22.29.38:744][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.03.28-22.29.38:786][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.03.28-22.29.38:831][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.03.28-22.29.38:920][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.03.28-22.29.38:920][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.03.28-22.29.38:966][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.03.28-22.29.39:000][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.03.28-22.29.39:118][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.03.28-22.29.39:140][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.03.28-22.29.39:182][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.03.28-22.29.39:228][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.03.28-22.29.39:271][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.03.28-22.29.39:315][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.03.28-22.29.39:315][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.03.28-22.29.39:707][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.03.28-22.29.40:027][  0]LogDerivedDataCache: Loaded boot cache 0.32s 78MB D:/Users/gregory.jon6888/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.28-22.29.40:027][  0]LogDerivedDataCache: Display: Loaded Boot cache: D:/Users/gregory.jon6888/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.03.28-22.29.40:027][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Users/gregory.jon6888/Desktop/BossPrototype/Source/Prototype03/.gitignore/Prototype03/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.03.28-22.29.40:027][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.03.28-22.29.40:027][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Users/gregory.jon6888/Desktop/BossPrototype/Source/Prototype03/.gitignore/Prototype03/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.03.28-22.29.40:027][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.03.28-22.29.40:041][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.03.28-22.29.40:053][  0]LogDerivedDataCache: Using Local data cache path D:/Users/gregory.jon6888/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.03.28-22.29.40:062][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.03.28-22.29.40:062][  0]LogSlate: Using Freetype 2.6.0
+[2018.03.28-22.29.40:072][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.28-22.29.40:072][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.28-22.29.40:548][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.28-22.29.40:839][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.03.28-22.29.40:876][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.03.28-22.29.40:876][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.03.28-22.29.40:876][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.03.28-22.29.40:876][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.03.28-22.29.40:876][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.03.28-22.29.40:904][  0]LogNetVersion: Prototype03 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 4074420363)
+[2018.03.28-22.29.41:046][  0]LogAssetRegistry: FAssetRegistry took 0.0256 seconds to start up
+[2018.03.28-22.29.41:524][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.093212 seconds
+[2018.03.28-22.29.41:529][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2018.03.28-22.29.41:529][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2018.03.28-22.29.41:529][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.03.28-22.29.41:575][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.03.28-22.29.46:140][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.03.28-22.29.46:179][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.03.28-22.29.46:854][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.03.28-22.29.47:237][  0]SourceControl: Source control is disabled
+[2018.03.28-22.29.47:237][  0]SourceControl: Source control is disabled
+[2018.03.28-22.29.47:286][  0]SourceControl: Source control is disabled
+[2018.03.28-22.29.47:336][  0]SourceControl: Source control is disabled
+[2018.03.28-22.29.48:116][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.03.28-22.29.48:363][  0]LogOcInput: OculusInput pre-init called
+[2018.03.28-22.29.48:643][  0]LogEngine: Initializing Engine...
+[2018.03.28-22.29.48:646][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.03.28-22.29.48:827][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.03.28-22.29.48:827][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.03.28-22.29.48:938][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.03.28-22.29.48:944][  0]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.28-22.29.48:972][  0]LogInit: FAudioDevice initialized.
+[2018.03.28-22.29.49:109][  0]LogDerivedDataCache: Saved boot cache 0.14s 78MB D:/Users/gregory.jon6888/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.28-22.29.49:124][  0]LogInit: Texture streaming: Enabled
+[2018.03.28-22.29.49:211][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.03.28-22.29.49:336][  0]LogInit: Transaction tracking system initialized
+[2018.03.28-22.29.49:622][  0]BlueprintLog: New page: Editor Load
+[2018.03.28-22.29.50:418][  0]LocalizationService: Localization service is disabled
+[2018.03.28-22.29.51:172][  0]LogConsoleResponse: Display: 
+[2018.03.28-22.29.51:496][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.03.28-22.29.51:496][  0]LogCook: Display: Mobile HDR setting 1
+[2018.03.28-22.29.51:496][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.03.28-22.29.51:652][  0]LogFileCache: Scanning file cache for directory 'D:/Users/gregory.jon6888/Desktop/BossPrototype/Source/Prototype03/.gitignore/Prototype03/Content/' took 0.02s
+[2018.03.28-22.29.52:746][  0]SourceControl: Source control is disabled
+[2018.03.28-22.29.52:746][  0]Cmd: MAP LOAD FILE="D:/Users/gregory.jon6888/Desktop/BossPrototype/Source/Prototype03/.gitignore/Prototype03/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.28-22.29.52:766][  0]LightingResults: New page: Lighting Build
+[2018.03.28-22.29.52:807][  0]MapCheck: New page: Map Check
+[2018.03.28-22.29.52:807][  0]LightingResults: New page: Lighting Build
+[2018.03.28-22.29.53:207][  0]LogLinker: Warning: Can't find file '/Game/shit_colors/cracked-concrete-texture-3'
+[2018.03.28-22.29.53:207][  0]LogLinker: Warning: Can't find file for asset '/Game/shit_colors/cracked-concrete-texture-3' while loading D:/Users/gregory.jon6888/Desktop/BossPrototype/Source/Prototype03/.gitignore/Prototype03/Content/shit_colors/snow.uasset.
+[2018.03.28-22.29.53:207][  0]LoadErrors: Error: /Game/shit_colors/snow : Can't find file for asset. /Game/shit_colors/cracked-concrete-texture-3
+[2018.03.28-22.29.53:208][  0]LogLinker: Warning: Can't find file '/Game/shit_colors/snow_image'
+[2018.03.28-22.29.53:208][  0]LogLinker: Warning: Can't find file for asset '/Game/shit_colors/snow_image' while loading D:/Users/gregory.jon6888/Desktop/BossPrototype/Source/Prototype03/.gitignore/Prototype03/Content/shit_colors/snow.uasset.
+[2018.03.28-22.29.53:208][  0]LoadErrors: Error: /Game/shit_colors/snow : Can't find file for asset. /Game/shit_colors/snow_image
+[2018.03.28-22.29.53:208][  0]LogLinker: Warning: Can't find file '/Game/shit_colors/cracked-concrete-texture-3'
+[2018.03.28-22.29.53:208][  0]LogLinker: Warning: Can't find file for asset '/Game/shit_colors/cracked-concrete-texture-3' while loading D:/Users/gregory.jon6888/Desktop/BossPrototype/Source/Prototype03/.gitignore/Prototype03/Content/shit_colors/snow.uasset.
+[2018.03.28-22.29.53:208][  0]LoadErrors: Error: /Game/shit_colors/snow : Can't find file for asset. /Game/shit_colors/cracked-concrete-texture-3
+[2018.03.28-22.29.53:208][  0]LogLinker: Warning: Can't find file '/Game/shit_colors/snow_image'
+[2018.03.28-22.29.53:208][  0]LogLinker: Warning: Can't find file for asset '/Game/shit_colors/snow_image' while loading D:/Users/gregory.jon6888/Desktop/BossPrototype/Source/Prototype03/.gitignore/Prototype03/Content/shit_colors/snow.uasset.
+[2018.03.28-22.29.53:208][  0]LoadErrors: Error: /Game/shit_colors/snow : Can't find file for asset. /Game/shit_colors/snow_image
+[2018.03.28-22.29.53:227][  0]LogLinker: Warning: Can't find file '/Game/shit_colors/snow_image'
+[2018.03.28-22.29.53:227][  0]LoadErrors: Failed to load /Game/shit_colors/snow_image.snow_image Referenced by MaterialExpressionTextureSample_1
+[2018.03.28-22.29.53:227][  0]LogLinker: Warning: Can't find file for asset '/Game/shit_colors/snow_image' while loading NULL.
+[2018.03.28-22.29.53:227][  0]LoadErrors: Failed to load /Game/shit_colors/snow_image.snow_image Referenced by MaterialExpressionTextureSample_1
+[2018.03.28-22.29.53:228][  0]LogLinker: Warning: Can't find file '/Game/shit_colors/cracked-concrete-texture-3'
+[2018.03.28-22.29.53:228][  0]LoadErrors: Failed to load /Game/shit_colors/cracked-concrete-texture-3.cracked-concrete-texture-3 Referenced by MaterialExpressionTextureSample_3
+[2018.03.28-22.29.53:228][  0]LogLinker: Warning: Can't find file for asset '/Game/shit_colors/cracked-concrete-texture-3' while loading NULL.
+[2018.03.28-22.29.53:228][  0]LoadErrors: Failed to load /Game/shit_colors/cracked-concrete-texture-3.cracked-concrete-texture-3 Referenced by MaterialExpressionTextureSample_3
+[2018.03.28-22.29.53:507][  0]LogMaterial: Missing cached shader map for material snow, compiling. 
+[2018.03.28-22.29.53:507][  0]LogMaterial: Warning: D:\Users\gregory.jon6888\Desktop\BossPrototype\Source\Prototype03\.gitignore\Prototype03\Content\shit_colors\snow.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.28-22.29.53:507][  0]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.03.28-22.29.53:787][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.28-22.29.53:797][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.28-22.29.53:807][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.28-22.29.53:856][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 49.182ms to complete.
+[2018.03.28-22.29.53:856][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.110
+[2018.03.28-22.29.54:033][  0]LogCollectionManager: Loaded 0 collections in 0.001634 seconds
+[2018.03.28-22.29.54:107][  0]LogFileCache: Scanning file cache for directory 'D:/Users/gregory.jon6888/Desktop/BossPrototype/Source/Prototype03/.gitignore/Prototype03/Saved/Collections/' took 0.01s
+[2018.03.28-22.29.54:107][  0]LogFileCache: Scanning file cache for directory 'D:/Users/gregory.jon6888/Desktop/BossPrototype/Source/Prototype03/.gitignore/Prototype03/Content/Developers/gregoryjon6888/Collections/' took 0.01s
+[2018.03.28-22.29.54:107][  0]LogFileCache: Scanning file cache for directory 'D:/Users/gregory.jon6888/Desktop/BossPrototype/Source/Prototype03/.gitignore/Prototype03/Content/Collections/' took 0.01s
+[2018.03.28-22.29.54:107][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.03.28-22.29.54:114][  0]LogContentBrowser: Native class hierarchy populated in 0.0073 seconds. Added 2363 classes and 519 folders.
+[2018.03.28-22.29.54:170][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.03.28-22.29.54:290][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.03.28-22.29.54:334][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.03.28-22.29.54:453][  0]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.28-22.29.54:455][  0]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.03.28-22.29.54:484][  0]LogSlate: Took 0.024241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.03.28-22.29.54:576][  0]LogRenderer: Reallocating scene render targets to support 1156x668 Format 10 NumSamples 1 (Frame:1).
+[2018.03.28-22.29.54:705][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.03.28-22.29.54:705][  0]LogLoad: (Engine Initialization) Total time: 22.77 seconds
+[2018.03.28-22.29.54:705][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.03.28-22.29.54:705][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.03.28-22.29.54:731][  0]LogAssetRegistry: Asset discovery search completed in 13.7078 seconds
+[2018.03.28-22.29.54:733][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.03.28-22.29.54:733][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000042 seconds (updated 0 objects)
+[2018.03.28-22.29.54:736][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.03.28-22.29.54:811][  0]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.28-22.29.55:736][ 91]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.28-22.31.24:421][ 61]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.28-22.31.24:436][ 61]LogAssetTools: Warning: Failed to import 'E:\Year 2\Semester 2\Tech Art II\Visual Aesthetic Assignment\Week 03\Foliage_Environment\Content\VFX\VFX_Dust.uasset'. Unknown extension 'uasset'.
+[2018.03.28-22.31.42:840][120]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.03.28-22.31.46:701][377]LogAIModule: Creating AISystem for world hub_MAP
+[2018.03.28-22.31.46:735][377]Cmd: MAP LOAD FILE="D:/Users/gregory.jon6888/Desktop/BossPrototype/Source/Prototype03/.gitignore/Prototype03/Content/Maps/hub_MAP.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.28-22.31.46:735][377]LightingResults: New page: Lighting Build
+[2018.03.28-22.31.46:736][377]LoadErrors: New page: Loading map: hub_MAP.umap
+[2018.03.28-22.31.46:737][377]MapCheck: New page: Map Check
+[2018.03.28-22.31.46:737][377]LightingResults: New page: Lighting Build
+[2018.03.28-22.31.46:809][377]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.28-22.31.46:851][377]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.28-22.31.46:902][377]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 50.502ms to complete.
+[2018.03.28-22.31.46:902][377]LogFileHelpers: Loading map 'hub_MAP' took 0.168
+[2018.03.28-22.31.47:888][489]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.28-22.31.47:923][489]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.28-22.31.47:924][489]PIE: New page: PIE session: hub_MAP (Mar 30, 2018, 12:31:47 AM)
+[2018.03.28-22.31.47:924][489]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_hub_MAP
+[2018.03.28-22.31.47:982][489]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058500s)
+[2018.03.28-22.31.47:983][489]LogAIModule: Creating AISystem for world hub_MAP
+[2018.03.28-22.31.47:983][489]LogPlayLevel: PIE: World Init took: (0.000627s)
+[2018.03.28-22.31.47:983][489]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/hub_MAP.hub_MAP to /Game/Maps/UEDPIE_0_hub_MAP.hub_MAP (0.059512s)
+[2018.03.28-22.31.47:994][489]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.28-22.31.48:003][489]LogInit: FAudioDevice initialized.
+[2018.03.28-22.31.48:074][489]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.28-22.31.48:083][489]LogWorld: Bringing World /Game/Maps/UEDPIE_0_hub_MAP.hub_MAP up for play (max tick rate 0) at 2018.03.29-11.31.48
+[2018.03.28-22.31.48:083][489]LogWorld: Bringing up level for play took: 0.007926
+[2018.03.28-22.31.48:121][489]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 11 classes and 0 folders.
+[2018.03.28-22.31.48:128][489]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_hub_MAP -0.062
+[2018.03.28-22.31.48:131][489]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:157][489]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.03.28-22.31.48:204][490]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:221][491]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:230][492]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:238][493]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:247][494]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:256][495]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:265][496]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:275][497]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:285][498]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:295][499]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:304][500]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:313][501]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:323][502]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:332][503]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:342][504]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:351][505]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:361][506]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:370][507]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:379][508]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:390][509]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:400][510]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:411][511]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:421][512]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:432][513]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:444][514]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:453][515]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:463][516]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:473][517]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:483][518]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:492][519]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:503][520]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:511][521]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:520][522]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:529][523]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:537][524]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:546][525]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:554][526]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:563][527]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:571][528]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:580][529]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:588][530]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:597][531]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:605][532]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:614][533]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:623][534]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:632][535]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:641][536]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:649][537]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:659][538]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:668][539]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:677][540]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:686][541]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:695][542]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:703][543]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:711][544]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:720][545]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:728][546]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:736][547]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:745][548]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:753][549]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:762][550]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:770][551]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:778][552]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:787][553]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:795][554]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:803][555]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:812][556]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:820][557]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:828][558]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:837][559]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:845][560]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:853][561]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:862][562]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:870][563]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:880][564]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:888][565]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:897][566]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:906][567]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:914][568]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:922][569]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:931][570]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:939][571]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:948][572]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:956][573]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:964][574]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:973][575]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:981][576]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:989][577]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.48:997][578]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:007][579]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:014][580]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:022][581]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:031][582]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:039][583]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:048][584]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:056][585]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:064][586]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:073][587]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:081][588]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:089][589]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:097][590]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:106][591]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:114][592]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:122][593]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:131][594]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:139][595]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:148][596]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:158][597]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:168][598]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:177][599]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:185][600]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:194][601]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:203][602]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:212][603]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:220][604]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:230][605]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:238][606]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:246][607]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:255][608]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:263][609]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:271][610]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:280][611]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:289][612]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:298][613]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:307][614]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:315][615]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:323][616]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:332][617]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:341][618]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:350][619]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:360][620]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:368][621]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:378][622]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:387][623]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:396][624]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:405][625]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:415][626]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:424][627]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:434][628]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:443][629]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:452][630]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:462][631]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:470][632]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:479][633]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:488][634]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:496][635]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:505][636]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:514][637]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:522][638]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:531][639]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:539][640]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:548][641]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:557][642]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:565][643]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:574][644]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:583][645]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:592][646]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:600][647]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:609][648]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:618][649]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:627][650]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:636][651]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:646][652]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:654][653]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:662][654]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:670][655]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:680][656]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:688][657]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:696][658]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:705][659]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:714][660]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:722][661]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:731][662]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:740][663]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:749][664]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:759][665]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:769][666]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:778][667]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:788][668]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:798][669]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:807][670]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:816][671]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:826][672]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:836][673]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:844][674]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:853][675]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:862][676]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:871][677]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:880][678]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:889][679]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:898][680]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:906][681]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:915][682]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:925][683]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:933][684]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:942][685]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:951][686]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:960][687]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:969][688]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:980][689]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:988][690]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.49:996][691]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:005][692]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:014][693]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:022][694]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:031][695]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:039][696]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:048][697]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:056][698]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:065][699]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:074][700]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:083][701]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:093][702]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:102][703]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:110][704]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:119][705]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:127][706]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:136][707]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:145][708]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:154][709]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:162][710]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:170][711]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:179][712]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:187][713]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:196][714]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:204][715]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:212][716]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:221][717]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:229][718]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:237][719]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:246][720]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:254][721]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:262][722]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:271][723]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:279][724]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:287][725]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:296][726]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:304][727]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:312][728]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:321][729]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:329][730]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:337][731]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:346][732]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:355][733]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:364][734]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:372][735]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:380][736]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:389][737]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:397][738]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:406][739]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:415][740]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:424][741]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:432][742]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:442][743]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:450][744]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:459][745]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:467][746]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:477][747]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:487][748]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:495][749]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:504][750]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:513][751]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:522][752]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:531][753]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:540][754]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:549][755]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:560][756]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:571][757]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:580][758]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:589][759]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:598][760]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:607][761]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:616][762]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:627][763]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:636][764]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:646][765]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:656][766]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:665][767]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:675][768]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:684][769]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:694][770]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:702][771]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:711][772]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:719][773]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:728][774]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:736][775]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:745][776]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:754][777]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:763][778]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:772][779]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:780][780]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:789][781]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:797][782]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:806][783]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:815][784]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:824][785]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:833][786]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:841][787]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:851][788]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:860][789]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:870][790]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:879][791]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:888][792]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:898][793]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:906][794]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:916][795]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:925][796]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:935][797]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:944][798]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:952][799]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:961][800]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:969][801]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:978][802]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:986][803]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.50:997][804]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:005][805]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:015][806]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:024][807]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:032][808]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:041][809]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:050][810]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:059][811]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:067][812]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:078][813]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:086][814]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:096][815]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:105][816]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:115][817]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:127][818]LogCharacterMovement: Player_C_0 is stuck and failed to move! Velocity: X=4.62 Y=599.98 Z=0.00 Location: X=1864.77 Y=198.95 Z=224.42 Normal: X=0.77 Y=-0.45 Z=-0.45 PenetrationDepth:5.020 Actor:foodStall_MESH_138 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2018.03.28-22.31.51:127][818]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:139][819]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:148][820]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:159][821]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:169][822]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:181][823]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:193][824]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:204][825]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:215][826]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:224][827]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:233][828]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:243][829]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:252][830]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:262][831]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:271][832]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:280][833]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:289][834]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:298][835]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:306][836]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:315][837]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:324][838]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:334][839]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:343][840]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:351][841]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:361][842]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:369][843]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:378][844]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:386][845]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:395][846]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:403][847]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:413][848]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:422][849]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:431][850]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:440][851]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:448][852]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:458][853]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:467][854]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:476][855]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:485][856]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:495][857]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:504][858]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:512][859]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:521][860]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:530][861]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:538][862]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:547][863]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:556][864]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:565][865]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:574][866]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:583][867]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:593][868]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:602][869]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:612][870]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:622][871]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:631][872]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:640][873]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:649][874]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:658][875]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:667][876]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:677][877]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:686][878]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:695][879]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:706][880]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:715][881]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:723][882]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:732][883]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:741][884]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:750][885]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:758][886]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:767][887]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:776][888]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:785][889]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:794][890]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:802][891]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:813][892]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:820][893]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:830][894]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:840][895]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:849][896]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:860][897]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:868][898]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:878][899]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:888][900]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:898][901]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:908][902]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:919][903]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:929][904]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:938][905]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:947][906]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:957][907]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:966][908]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:976][909]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:987][910]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.51:997][911]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:006][912]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:015][913]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:024][914]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:032][915]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:042][916]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:051][917]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:060][918]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:069][919]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:078][920]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:087][921]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:097][922]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:107][923]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:115][924]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:126][925]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:135][926]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:145][927]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:154][928]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:163][929]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:172][930]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:182][931]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:192][932]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:201][933]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:211][934]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:220][935]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:229][936]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:238][937]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:246][938]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:256][939]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:264][940]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:273][941]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:282][942]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:292][943]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:301][944]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:310][945]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:319][946]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:328][947]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:337][948]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:346][949]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:355][950]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:363][951]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:372][952]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:381][953]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:389][954]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:398][955]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:408][956]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:416][957]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:426][958]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:434][959]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:443][960]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:452][961]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:461][962]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:470][963]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:479][964]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:490][965]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:500][966]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:509][967]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:517][968]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:526][969]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:535][970]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:545][971]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:554][972]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:563][973]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:572][974]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:581][975]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:591][976]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:601][977]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:611][978]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:621][979]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:630][980]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:639][981]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:648][982]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:657][983]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:665][984]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:675][985]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:684][986]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:693][987]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:702][988]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:712][989]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:721][990]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:730][991]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:739][992]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:748][993]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:757][994]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:766][995]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:774][996]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:782][997]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:791][998]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:799][999]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:807][  0]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:816][  1]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:825][  2]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:835][  3]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:845][  4]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:853][  5]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:862][  6]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:872][  7]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:881][  8]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:891][  9]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:900][ 10]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:909][ 11]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:919][ 12]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:927][ 13]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:936][ 14]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:945][ 15]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:956][ 16]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:965][ 17]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:976][ 18]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:986][ 19]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.52:996][ 20]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:008][ 21]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:018][ 22]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:028][ 23]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:039][ 24]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:047][ 25]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:056][ 26]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:066][ 27]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:076][ 28]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:084][ 29]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:095][ 30]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:104][ 31]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:114][ 32]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:124][ 33]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:132][ 34]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:142][ 35]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:151][ 36]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:161][ 37]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:170][ 38]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:179][ 39]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:188][ 40]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:198][ 41]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:208][ 42]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:219][ 43]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:229][ 44]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:239][ 45]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:248][ 46]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:257][ 47]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:265][ 48]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:274][ 49]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:284][ 50]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:295][ 51]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:303][ 52]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:313][ 53]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:323][ 54]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:333][ 55]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:343][ 56]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:352][ 57]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:362][ 58]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:372][ 59]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:381][ 60]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:391][ 61]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:401][ 62]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:410][ 63]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:419][ 64]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:430][ 65]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:438][ 66]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:447][ 67]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:456][ 68]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:466][ 69]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:475][ 70]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:484][ 71]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:494][ 72]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:502][ 73]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:512][ 74]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:522][ 75]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:531][ 76]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:542][ 77]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:550][ 78]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:559][ 79]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:568][ 80]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:578][ 81]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:587][ 82]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:598][ 83]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:606][ 84]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:615][ 85]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:625][ 86]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:635][ 87]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:644][ 88]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:653][ 89]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:662][ 90]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:670][ 91]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:680][ 92]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:690][ 93]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:699][ 94]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:709][ 95]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:719][ 96]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:728][ 97]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:738][ 98]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:747][ 99]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:756][100]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:765][101]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:773][102]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:782][103]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:790][104]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:799][105]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:808][106]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:819][107]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:828][108]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:837][109]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:847][110]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:856][111]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:864][112]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:875][113]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:884][114]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:894][115]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:902][116]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:911][117]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:920][118]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:930][119]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:941][120]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:951][121]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:961][122]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:969][123]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:979][124]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:988][125]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.53:997][126]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.54:005][127]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.54:015][128]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.54:025][129]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.54:034][130]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.54:044][131]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.54:053][132]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.54:062][133]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.54:071][134]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.54:080][135]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.54:088][136]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.54:098][137]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.54:108][138]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.54:117][139]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.54:126][140]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.54:135][141]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.54:145][142]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.54:154][143]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.54:162][144]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.54:171][145]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.54:179][146]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.54:189][147]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.54:199][148]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.54:208][149]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.54:217][150]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.54:227][151]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.54:236][152]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.54:246][153]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.54:255][154]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
+[2018.03.28-22.31.54:265][155]LogBlueprintUserMessages: [Player_C_0] C-C-C-COMBO :  0 | 0
