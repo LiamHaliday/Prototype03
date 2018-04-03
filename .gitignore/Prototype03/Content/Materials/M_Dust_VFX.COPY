@@ -1,0 +1,44 @@
+Begin Object Class=/Script/Engine.Material Name="M_Dust_VFX"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_10"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_6"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant3Vector Name="MaterialExpressionConstant3Vector_1"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_10"
+      Texture=Texture2D'"/Game/textures/Forest/T_dust.T_dust"'
+      MaterialExpressionEditorX=-400
+      MaterialExpressionGuid=5CB2F60E4622BCB86842298F2329A01E
+      Material=Material'"M_Dust_VFX"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_6"
+      A=(Expression=MaterialExpressionTextureSample'"M_Dust_VFX:MaterialExpressionTextureSample_10"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionConstant3Vector'"M_Dust_VFX:MaterialExpressionConstant3Vector_1"')
+      MaterialExpressionEditorX=-160
+      MaterialExpressionEditorY=80
+      MaterialExpressionGuid=0E5EC9F64D127EE7CDFBE1B8ABE7ABB7
+      Material=Material'"M_Dust_VFX"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant3Vector_1"
+      Constant=(R=0.170000,G=0.147187,B=0.105400,A=0.000000)
+      MaterialExpressionEditorX=-400
+      MaterialExpressionEditorY=208
+      MaterialExpressionGuid=EDB0156E46C9505A68085992B2C685F2
+      Material=Material'"M_Dust_VFX"'
+   End Object
+   EmissiveColor=(Expression=MaterialExpressionMultiply'"MaterialExpressionMultiply_6"')
+   BlendMode=BLEND_Additive
+   bUsedWithParticleSprites=True
+   Expressions(0)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_10"'
+   Expressions(1)=MaterialExpressionMultiply'"MaterialExpressionMultiply_6"'
+   Expressions(2)=MaterialExpressionConstant3Vector'"MaterialExpressionConstant3Vector_1"'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=4FA35E2A4F51A333D2CE898228EF3C9E
+   ReferencedTextureGuids(0)=60C8E9EA435BDC0743EC988A3E7BA596
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=3F6A9CB24DC5D09610EB33B73D0BA5BA
+End Object
